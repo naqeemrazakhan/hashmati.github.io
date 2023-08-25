@@ -134,6 +134,7 @@
 	.home-store .product-item-grid{
 		width: 100%;
 	}
+
 }
 @media only screen and (max-width: 991px)  and (min-width: 768px) {
 	header .main-menu .navbar-header{

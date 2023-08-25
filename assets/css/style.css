@@ -447,7 +447,7 @@ input[type="submit"][disabled]:focus {
     background-color: #ffb400;
 }
 .padding-120{
-    padding: 120px 0px;
+    padding: 36px 0px;
 }
 .section-bg{
     background-color: #f5f8fa;
@@ -1600,7 +1600,7 @@ header .menu_cart .check_out:hover{
 /*  04  - Page Header
 ----------------------------------------------*/
 .page-header{
-    background-image: url(../../images/background/page-header-bg.jpg);
+    background-image: url(../../images/background/page-header-bg.png);
     background-size: cover;
     background-position: center;
     margin: 0px;
@@ -5213,5 +5213,7 @@ footer .footer-bottom .social-default{
     -webkit-transform: scaleY(1.0);
   }
 }
+
+
 
 /*-------------- Thank You ----------------*/
