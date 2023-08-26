@@ -5134,9 +5134,7 @@ footer .footer-bottom .social-default{
 
 
 .loader {
-    border: 16px solid white;
     /* Light grey */
-    border-top: 16px solid white;
     /* Dark Green */
     border-radius: 50%;
     width: 120px;
